@@ -9,7 +9,7 @@ export function WelcomeScreen({ onStart }: WelcomeScreenProps) {
   return (
     <div className="bg-white rounded-lg shadow-xl p-8 max-w-2xl w-full text-center">
       <img 
-        src="./src/ditus.png" 
+        src="src/ditus.png" 
         alt="DITA" 
         className="w-32 h-32 mx-auto mb-6 rounded-full" 
       />
